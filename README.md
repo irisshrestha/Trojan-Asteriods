@@ -1,3 +1,3 @@
-Mostly just tests I was doing to learn python at Uni. Contains animations to visualise physical interactions.
+Python code to test the stability of the Trojan (and Greek) asteriods created by the gravity of the sun and jupiter.
 
-Trojen Asteriods was my main project in year 3.
+Uni project project in year 3.
